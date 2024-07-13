@@ -10,4 +10,4 @@ This project utilizes linear regression to predict the stock price of HDFC Bank 
 ## Insights and Considerations
 - **High Regression Score:** The high R-squared value indicates a strong correlation between the input features (opening price, previous closing price) and the predicted stock prices.
 - **Historical Trends:** The model captures various market conditions, including significant fluctuations such as those observed during the 2008 financial crisis and the 2019-2020 COVID-19 pandemic.
-- **Unpredictable Events:** Certain events, like financial crises or pandemics, can lead to unpredictable stock price movements, causing significant dips that are challenging for the model to forecast accurately.
+
